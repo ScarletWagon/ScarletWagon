@@ -94,11 +94,7 @@
   
 
 <br/>    
-
-<br/>  
-<div align="center"><img src="https://repository-images.githubusercontent.com/278929867/2a9dcb80-c873-11ea-8559-5ffa1a39e4f5" /></div>  
-
-<br/>  
+ 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ScarletWagon&&style=flat-square" align="center" />
