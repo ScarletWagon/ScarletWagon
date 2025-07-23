@@ -93,15 +93,10 @@
 </div>  
   
 
-<br/>  
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+<br/>    
 
 <br/>  
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img src="https://repository-images.githubusercontent.com/278929867/2a9dcb80-c873-11ea-8559-5ffa1a39e4f5" /></div>  
 
 <br/>  
 
